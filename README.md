@@ -1,3 +1,5 @@
+# This is a fork of Burgestrand/ruhue.  The original Ruhue README follows.
+
 # Ruhue
 
 So far, mere documentations of my findings when sniffing the Hue.
@@ -42,7 +44,7 @@ are very welcome, and if you’d like commit access to the hue-api repository, j
 
 ## Gem License
 
-Copyright (c) 2012 Kim Burgestrand
+Copyright (c) 2012 Kim Burgestrand and contributors
 
 MIT License
 
